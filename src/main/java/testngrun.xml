@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+	
+<parameter name="url"  value="https://www.facebook.com/"/>
+
+  <test name="Test">
+    <classes>
+      <class name="newstart.trail"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+
+
